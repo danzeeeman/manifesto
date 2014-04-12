@@ -23,7 +23,8 @@
 1. Make to find meaning without a precondition. Remove barriers to entry.
 1. Follow [links](http://www.cs.cmu.edu/~tom7/mario/mario.pdf). Open them in new tabs.
 1. Know that you will be gone before you are finished.
-
+1. Release Early, Release Often 
+⋅⋅1 .with rap music 
 ## License
   
 ```
